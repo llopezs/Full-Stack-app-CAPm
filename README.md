@@ -12,6 +12,7 @@ Primero, necesitarás clonar el repositorio desde GitHub. Puedes hacerlo utiliza
 
 ```bash
 git clone https://github.com/llopezs/Full-Stack-app-CAPm.git
+```
 
 ### Navegar al directorio del proyecto
 
@@ -19,6 +20,7 @@ Una vez que el repositorio esté clonado en tu máquina local, navega al directo
 
 ```bash
 cd Full-Stack-app-CAPm
+```
 
 ### Instalar las dependencias
 
@@ -26,12 +28,13 @@ Ahora necesitas instalar todas las dependencias necesarias para el proyecto. Pue
 
 ```bash
 npm install
-
+```
 ### Ejecutar el proyecto
 
 Finalmente, puedes ejecutar el proyecto. En este caso, se utilizará el comando `cds watch`:
 
 ```bash
 cds watch
+```
 
 Con estos pasos deberías poder ejecutar el proyecto en tu máquina local. ¡Buena suerte!
